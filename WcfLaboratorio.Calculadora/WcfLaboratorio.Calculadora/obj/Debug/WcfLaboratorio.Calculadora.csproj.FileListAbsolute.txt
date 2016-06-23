@@ -1,0 +1,8 @@
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\WcfLaboratorio.Calculadora\WcfLaboratorio.Calculadora\bin\Debug\WcfLaboratorio.Calculadora.dll.config
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\WcfLaboratorio.Calculadora\WcfLaboratorio.Calculadora\bin\Debug\WcfLaboratorio.Calculadora.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\WcfLaboratorio.Calculadora\WcfLaboratorio.Calculadora\bin\Debug\WcfLaboratorio.Calculadora.pdb
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\WcfLaboratorio.Calculadora\WcfLaboratorio.Calculadora\bin\Debug\Core.Numero.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\WcfLaboratorio.Calculadora\WcfLaboratorio.Calculadora\bin\Debug\Core.Numero.pdb
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\WcfLaboratorio.Calculadora\WcfLaboratorio.Calculadora\obj\Debug\WcfLaboratorio.Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\WcfLaboratorio.Calculadora\WcfLaboratorio.Calculadora\obj\Debug\WcfLaboratorio.Calculadora.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\WcfLaboratorio.Calculadora\WcfLaboratorio.Calculadora\obj\Debug\WcfLaboratorio.Calculadora.pdb
