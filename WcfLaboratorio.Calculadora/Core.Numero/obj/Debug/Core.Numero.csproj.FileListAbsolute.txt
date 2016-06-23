@@ -1,0 +1,5 @@
+C:\Users\Roberto\Source\Repos\LaboratorioCalculadora\WcfLaboratorio.Calculadora\Core.Numero\bin\Debug\Core.Numero.dll
+C:\Users\Roberto\Source\Repos\LaboratorioCalculadora\WcfLaboratorio.Calculadora\Core.Numero\bin\Debug\Core.Numero.pdb
+C:\Users\Roberto\Source\Repos\LaboratorioCalculadora\WcfLaboratorio.Calculadora\Core.Numero\obj\Debug\Core.Numero.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Source\Repos\LaboratorioCalculadora\WcfLaboratorio.Calculadora\Core.Numero\obj\Debug\Core.Numero.dll
+C:\Users\Roberto\Source\Repos\LaboratorioCalculadora\WcfLaboratorio.Calculadora\Core.Numero\obj\Debug\Core.Numero.pdb

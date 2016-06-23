@@ -1,0 +1,8 @@
+C:\Users\Roberto\Source\Repos\LaboratorioCalculadora\WcfLaboratorio.Calculadora\Tests.Calculadora\bin\Debug\Tests.Calculadora.dll
+C:\Users\Roberto\Source\Repos\LaboratorioCalculadora\WcfLaboratorio.Calculadora\Tests.Calculadora\bin\Debug\Tests.Calculadora.pdb
+C:\Users\Roberto\Source\Repos\LaboratorioCalculadora\WcfLaboratorio.Calculadora\Tests.Calculadora\bin\Debug\Core.Numero.dll
+C:\Users\Roberto\Source\Repos\LaboratorioCalculadora\WcfLaboratorio.Calculadora\Tests.Calculadora\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Roberto\Source\Repos\LaboratorioCalculadora\WcfLaboratorio.Calculadora\Tests.Calculadora\bin\Debug\Core.Numero.pdb
+C:\Users\Roberto\Source\Repos\LaboratorioCalculadora\WcfLaboratorio.Calculadora\Tests.Calculadora\obj\Debug\Tests.Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Source\Repos\LaboratorioCalculadora\WcfLaboratorio.Calculadora\Tests.Calculadora\obj\Debug\Tests.Calculadora.dll
+C:\Users\Roberto\Source\Repos\LaboratorioCalculadora\WcfLaboratorio.Calculadora\Tests.Calculadora\obj\Debug\Tests.Calculadora.pdb
